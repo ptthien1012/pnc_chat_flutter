@@ -20,8 +20,8 @@ dependencies:
   url_launcher: ^6.1.6
   visibility_detector: ^0.3.3
   carousel_slider: any
-  linkify: ^4.1.0
-  flutter_linkify: any
+  linkify: ^5.0.0
+  flutter_linkify: ^6.0.0
   html: ^0.15.1
   json_annotation: ^4.7.0
   flutter_svg: ^2.0.6
