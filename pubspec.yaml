@@ -21,7 +21,7 @@ dependencies:
   visibility_detector: ^0.3.3
   carousel_slider: ^4.1.1
   linkify: ^4.1.0
-  flutter_linkify: ^5.0.2
+  flutter_linkify: any
   html: ^0.15.1
   json_annotation: ^4.7.0
   flutter_svg: ^2.0.6
