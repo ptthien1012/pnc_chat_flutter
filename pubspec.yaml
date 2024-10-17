@@ -19,7 +19,7 @@ dependencies:
   scroll_to_index: ^3.0.1
   url_launcher: ^6.1.6
   visibility_detector: ^0.3.3
-  carousel_slider: ^4.1.1
+  carousel_slider: any
   linkify: ^4.1.0
   flutter_linkify: any
   html: ^0.15.1
